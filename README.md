@@ -1,4 +1,4 @@
-# 👋 Olá, o meu nome é Rui
+# Olá, o meu nome é Rui
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
