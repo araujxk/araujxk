@@ -54,6 +54,11 @@ Nunca desisto das dificuldades que encontro, e encontro sempre uma maneira de as
 
 ---
 
+## Atualmente
+
+Para a minha prova de aptidão profissional (*PAP*) estou a desenvolver um jogo Tower Defense chamado "Back Roads", em Unity como motor de jogo, pois usa C#, o que me permite desenvolver com menor dificuldade e ajuda-me a aprender ainda mais além do que já consigo fazer. 
+
+---
 ## 🛠️ Habilidades
 
 ### 📚 Aprendendo
