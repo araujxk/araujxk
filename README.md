@@ -40,6 +40,18 @@ Entrei na área em 2023/2024 quando entrei para a Escola Profissional de Serviç
 
 Tenho o foco de prosseguir o CTeSP de *Redes e Segurança Informática* e após a conclusão do mesmo pretendo prosseguir para a Licenciatura de *Engenharia de Sistemas Informáticos*.
 
+Estou atualmente em estágio escolar entre 18 Maio - 1 Julho na PPRR Plásticos, S.A
+
+Desempenho tarefas como: 
+
+- *Helpdesk*
+- *Programação de ferramentas*
+- *Gestão de redes*
+- *Análise de dados*
+
+Procuro sempre trabalhar e empenhar-me ao máximo para disfrutar da oportunidade que me deram de continuar a aprender em local de empresa.
+Nunca desisto das dificuldades que encontro, e encontro sempre uma maneira de as ultrapassar, com preserverança.
+
 ---
 
 ## 🛠️ Habilidades
