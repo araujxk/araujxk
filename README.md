@@ -16,7 +16,11 @@
 
 ## 📊 Gráfico de Contribuições
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujxk&theme=react-dark&hide_border=true)
+<div align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujxk&theme=react-dark&hide_border=true)](https://github.com/araujxk)
+
+</div>
 
 ---
 
@@ -24,8 +28,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=araujxk&show_icons=true&theme=react&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=araujxk&layout=compact&theme=react&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=araujxk&show_icons=true&theme=react&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujxk&layout=compact&theme=react&hide_border=true" height="165"/>
 
 </div>
 
@@ -35,7 +39,7 @@
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=araujxk&theme=react-dark&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=araujxk&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -45,7 +49,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=araujxk&theme=darkhub&no-frame=true&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=araujxk&theme=darkhub&no-frame=true&row=1"/>
 
 </div>
 
@@ -77,6 +81,6 @@ Tenho o foco de prosseguir o CTeSP de *Redes e Segurança Informática* e após 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruiaraujo640@gmail.com)
 
 </div>
