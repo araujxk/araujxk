@@ -40,6 +40,13 @@ Entrei na área em 2023/2024 quando entrei para a Escola Profissional de Serviç
 
 Tenho o foco de prosseguir o CTeSP de *Redes e Segurança Informática* e após a conclusão do mesmo pretendo prosseguir para a Licenciatura de *Engenharia de Sistemas Informáticos*.
 
+
+---
+
+## Atualmente
+
+Para a minha prova de aptidão profissional (*PAP*) estou a desenvolver um jogo Tower Defense chamado "Back Roads", em Unity como motor de jogo, pois usa C#, o que me permite desenvolver com menor dificuldade e ajuda-me a aprender ainda mais além do que já consigo fazer. 
+
 Estou atualmente em estágio escolar entre 18 Maio - 1 Julho na PPRR Plásticos, S.A
 
 Desempenho tarefas como: 
@@ -52,11 +59,6 @@ Desempenho tarefas como:
 Procuro sempre trabalhar e empenhar-me ao máximo para disfrutar da oportunidade que me deram de continuar a aprender em local de empresa.
 Nunca desisto das dificuldades que encontro, e encontro sempre uma maneira de as ultrapassar, com preserverança.
 
----
-
-## Atualmente
-
-Para a minha prova de aptidão profissional (*PAP*) estou a desenvolver um jogo Tower Defense chamado "Back Roads", em Unity como motor de jogo, pois usa C#, o que me permite desenvolver com menor dificuldade e ajuda-me a aprender ainda mais além do que já consigo fazer. 
 
 ---
 ## 🛠️ Habilidades
