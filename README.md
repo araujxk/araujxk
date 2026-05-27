@@ -43,8 +43,6 @@ Tenho o foco de prosseguir o CTeSP de *Redes e Segurança Informática* e após 
 
 ---
 
-## 💻 Atualmente
-
 ## 🎮 Projeto em Destaque
 
 ### 🏰 Back Roads — Tower Defense
@@ -54,14 +52,18 @@ Tenho o foco de prosseguir o CTeSP de *Redes e Segurança Informática* e após 
 - Linguagem: **C#**
 - Plataforma: **PC**
 
+
+---
+## 💻 Atualmente
+
 Estou atualmente em estágio escolar entre 18 Maio - 1 Julho na PPRR Plásticos, S.A
 
-Desempenho tarefas como: 
+  Desempenho tarefas como: 
 
-- *Helpdesk*
-- *Programação de ferramentas*
-- *Gestão de redes*
-- *Análise de dados*
+  - *Helpdesk*
+  - *Programação de ferramentas*
+  - *Gestão de redes*
+  - *Análise de dados*
 
 Procuro sempre trabalhar e empenhar-me ao máximo para usufruir da oportunidade que me deram de continuar a aprender em local de empresa.
 Nunca desisto das dificuldades que encontro, e encontro sempre uma maneira de as ultrapassar, com preserverança.
@@ -71,7 +73,7 @@ Nunca desisto das dificuldades que encontro, e encontro sempre uma maneira de as
 
 ## 🇵🇹 Linguagens que falo 
 
-🇵🇹 Português (nativo) · 🇬🇧 Inglês (Avançado)
+  🇵🇹 Português (nativo) · 🇬🇧 Inglês (Avançado)
 
 ---
 ## 🛠️ Habilidades
