@@ -14,14 +14,17 @@
 
 ---
 
-
-
 ## 👤 Sobre Mim
 
 Entrei na área em 2023/2024 quando entrei para a Escola Profissional de Serviços Cidenai, apaixonei-me por C#. Atualmente tento desenvolver pequenos jogos para PC / Android.
 
 Tenho o foco de prosseguir o CTeSP de *Redes e Segurança Informática* e após a conclusão do mesmo pretendo prosseguir para a Licenciatura de *Engenharia de Sistemas Informáticos*.
 
+---
+
+## 🇵🇹 Linguagens que falo 
+
+  🇵🇹 Português (nativo) · 🇬🇧 Inglês (Avançado)
 
 ---
 
@@ -36,6 +39,7 @@ Tenho o foco de prosseguir o CTeSP de *Redes e Segurança Informática* e após 
 
 
 ---
+
 ## 💻 Atualmente
 
 Estou atualmente em estágio escolar entre 18 Maio - 1 Julho na PPRR Plásticos, S.A
@@ -71,13 +75,8 @@ Nunca desisto das dificuldades que encontro, e encontro sempre uma maneira de as
 
 </div>
 
----
+--- 
 
-## 🇵🇹 Linguagens que falo 
-
-  🇵🇹 Português (nativo) · 🇬🇧 Inglês (Avançado)
-
----
 ## 🛠️ Habilidades
 
 
