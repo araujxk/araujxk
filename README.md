@@ -43,9 +43,16 @@ Tenho o foco de prosseguir o CTeSP de *Redes e Segurança Informática* e após 
 
 ---
 
-## Atualmente
+## 💻 Atualmente
 
-Para a minha prova de aptidão profissional (*PAP*) estou a desenvolver um jogo Tower Defense chamado "Back Roads", em Unity como motor de jogo, pois usa C#, o que me permite desenvolver com menor dificuldade e ajuda-me a aprender ainda mais além do que já consigo fazer. 
+## 🎮 Projeto em Destaque
+
+### 🏰 Back Roads — Tower Defense
+> Jogo desenvolvido em Unity (C#) como Prova de Aptidão Profissional
+
+- Motor: **Unity**
+- Linguagem: **C#**
+- Plataforma: **PC**
 
 Estou atualmente em estágio escolar entre 18 Maio - 1 Julho na PPRR Plásticos, S.A
 
@@ -56,14 +63,21 @@ Desempenho tarefas como:
 - *Gestão de redes*
 - *Análise de dados*
 
-Procuro sempre trabalhar e empenhar-me ao máximo para disfrutar da oportunidade que me deram de continuar a aprender em local de empresa.
+Procuro sempre trabalhar e empenhar-me ao máximo para usufruir da oportunidade que me deram de continuar a aprender em local de empresa.
 Nunca desisto das dificuldades que encontro, e encontro sempre uma maneira de as ultrapassar, com preserverança.
 
 
 ---
+
+## 🇵🇹 Linguagens que falo 
+
+🇵🇹 Português (nativo) · 🇬🇧 Inglês (Avançado)
+
+---
 ## 🛠️ Habilidades
 
-### 📚 Aprendendo
+
+## 📚 Aprendendo
 
 **Linguagens**
 - C#
