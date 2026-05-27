@@ -2,7 +2,7 @@
 
 # 👋 Olá, o meu nome é Rui!
 
-**Software Developer**
+**Junior**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=csharp&logoColor=white)
@@ -76,9 +76,6 @@ Nunca desisto das dificuldades que encontro, e encontro sempre uma maneira de as
 </div>
 
 --- 
-
-## 🛠️ Habilidades
-
 
 ## 📚 Aprendendo
 
