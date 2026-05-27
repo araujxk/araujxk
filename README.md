@@ -2,7 +2,7 @@
 
 # 👋 Olá, o meu nome é Rui!
 
-**Junior**
+**Junior Developer**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9B4F96?style=for-the-badge&logo=csharp&logoColor=white)
