@@ -14,25 +14,7 @@
 
 ---
 
-## 📊 Gráfico de Contribuições
 
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujxk&theme=react-dark&hide_border=true)](https://github.com/araujxk)
-
-</div>
-
----
-
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=araujxk&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
 
 ## 👤 Sobre Mim
 
@@ -68,6 +50,26 @@ Estou atualmente em estágio escolar entre 18 Maio - 1 Julho na PPRR Plásticos,
 Procuro sempre trabalhar e empenhar-me ao máximo para usufruir da oportunidade que me deram de continuar a aprender em local de empresa.
 Nunca desisto das dificuldades que encontro, e encontro sempre uma maneira de as ultrapassar, com preserverança.
 
+
+---
+
+## 📊 Gráfico de Contribuições
+
+<div align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujxk&theme=react-dark&hide_border=true)](https://github.com/araujxk)
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=araujxk&theme=react-dark&hide_border=true"/>
+
+</div>
 
 ---
 
