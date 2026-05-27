@@ -7,6 +7,10 @@
 
 ---
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujxk&theme=react-dark)
+
+---
+
 ## Sobre Mim
 
 Entrei na área em 2023/2024 quando entrei para a Escola Profissional de Serviços Cidenai, apaixonei-me por C#. Atualmente tento desenvolver pequenos jogos para PC / Android.
