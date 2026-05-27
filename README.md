@@ -24,32 +24,11 @@
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=araujxk&show_icons=true&theme=react&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujxk&layout=compact&theme=react&hide_border=true" height="165"/>
-
-</div>
-
----
-
 ## 🔥 Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=araujxk&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=araujxk&theme=darkhub&no-frame=true&row=1"/>
 
 </div>
 
