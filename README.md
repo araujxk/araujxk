@@ -37,18 +37,6 @@ Tenho o foco de prosseguir o CTeSP de *Redes e Segurança Informática* e após 
 - Linguagem: **C#**
 - Plataforma: **PC**
 
-
----
-
-
-## 📊 Gráfico de Contribuições
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=araujxk&theme=react-dark&hide_border=true)](https://github.com/araujxk)
-
-</div>
-
 ---
 
 ## 🔥 Streak
