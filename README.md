@@ -54,6 +54,9 @@ Tenho o foco de prosseguir o CTeSP de *Redes e Segurança Informática* e após 
 **Linguagens**
 - C#
 - PHP
+- C 
+- Typescript
+- Javascript
 
 **Base de dados**
 - SQL
