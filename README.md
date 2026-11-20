@@ -36,12 +36,6 @@ Depois do CTeSP pretendo prosseguir para a Licenciatura de *Engenharia de Sistem
 
 ---
 
-## 🔥 Streak
-
-[![](https://streak-stats.demolab.com?user=araujxk&theme=react-dark&hide_border=true)](https://github.com/araujxk)
-
----
-
 ## 📚 Aprendendo
 
 **Linguagens**
@@ -55,7 +49,7 @@ Depois do CTeSP pretendo prosseguir para a Licenciatura de *Engenharia de Sistem
 **Base de dados**
 
 - SQL
-
+- MariaDB
 ---
 
 ## 🌐 Contacto
